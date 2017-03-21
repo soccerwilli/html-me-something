@@ -1,4 +1,8 @@
-img {
-    height: 10px;
-    width: 10px;
+h1 {
+    font-family: cursive;
+}
+
+main img {
+    height: 10em;
+    width: 10em;
 }
