@@ -1,8 +1,19 @@
 h1 {
-    font-family: cursive;
+    font-family:Verdana,sans-serif;
+    font-size: 20px;
 }
 
-main img {
-    height: 10em;
-    width: 10em;
+h3 {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+img {
+    height: 10px;
+    width: 10px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
 }
